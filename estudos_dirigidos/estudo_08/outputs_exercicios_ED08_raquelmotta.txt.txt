@@ -1,0 +1,240 @@
+PUC MINAS - AEDs1
+Abr/2024
+
+Autor: Raquel de Parde Motta
+Matricula: 854017
+
+>>>>>> outputs dos exercícios do ED08 <<<<<<
+
+
+
+---------------------- > programa 0811 > teste A
+method_01 - programa 0811
+
+qual o tamanho do array 1?  11
+
+qual o tamanho do array 2?  5
+
+
+entre com 11 elementos (inteiros):
+elemento 1: -4
+elemento 2: -3
+elemento 3: -2
+elemento 4: -1
+elemento 5: 0
+elemento 6: 10
+elemento 7: 1
+elemento 8: 2
+elemento 9: 3
+elemento 10: 4
+elemento 11: 100
+
+
+entre com 5 elementos (inteiros):
+elemento 1: 2
+elemento 2: 4
+elemento 3: 6
+elemento 4: 8
+elemento 5: 800
+
+
+
+a1 = [-4, -3, -2, -1, 0, 10, 1, 2, 3, 4, 100]
+
+
+
+a2 = [2, 4, 6, 8, 800]
+
+
+
+NEM todos os elementos de a1 sao positivos e pares
+
+todos os elementos de a2 SAO positivos e pares
+
+aperte ENTER para continuar
+
+
+
+---------------------- > programa 0812 > teste A
+method_02 - programa 0812
+
+number of integers in array: 14
+[-5, -4, -3, -2, -1, 0, 1, 2, 3, 4, 5, 6, 7, 100]
+
+p = 5
+[0, 2, 4, 6, 100]
+
+
+aperte ENTER para continuar
+
+
+
+---------------------- > programa 0813 > teste A
+method_03 - programa 0513
+
+limite inferior do intervalo = 4
+
+
+limite superior do intervalo = 17
+
+
+quantos valores vc quer gerar? 8
+[17, 5, 10, 16, 7, 6, 16, 4]
+
+
+aperte ENTER para continuar
+
+
+
+---------------------- > programa 0814 > teste A
+method_04 - programa 0814
+
+number of integers in array: 11
+[-3, 21, 11, 6, 5, -5, 7, 8, 77, 100, 111]
+
+
+menor numero impar = -5
+
+aperte ENTER para continuar
+
+
+
+---------------------- > programa 0815 > teste A
+method_05 - programa 0815
+
+number of integers in array: 11
+[-3, 21, 11, 6, 5, -5, 7, 8, 77, 100, 111]
+
+
+maior numero impar = 111
+
+aperte ENTER para continuar
+
+
+
+---------------------- > programa 0816 > teste A
+method_06 - programa 0816
+
+number of integers in array: 11
+[-3, 21, 11, 6, 5, -5, 7, 8, 77, 100, 111]
+
+
+media dos valores = 30
+
+aperte ENTER para continuar
+
+
+
+---------------------- > programa 0817 > teste A
+method_07 - programa 0817
+
+number of integers in array: 4
+[8, 1, 2, 3]
+
+
+o arranjo NAO esta ordenado em ordem decrescente
+
+aperte ENTER para continuar
+
+---------------------- > programa 0817 > teste B
+method_07 - programa 0817
+
+number of integers in array: 6
+[9, 8, 7, 6, 5, 4]
+
+
+o arranjo ESTA ordenado em ordem decrescente
+
+aperte ENTER para continuar
+
+
+
+---------------------- > programa 0818 > teste A
+method_08 - programa 0818
+
+number of integers in array: 11
+[-3, 21, 11, 6, 5, -5, 7, 8, 77, 100, 111]
+
+
+qual valor vc deseja procurar?  21
+
+
+o valor 21 FOI encontrado no arranjo
+
+aperte ENTER para continuar
+
+---------------------- > programa 0818 > teste B
+method_08 - programa 0818
+
+number of integers in array: 11
+[-3, 21, 11, 6, 5, -5, 7, 8, 77, 100, 111]
+
+
+qual valor vc deseja procurar?  500
+
+
+o valor 500 NAO foi encontrado no arranjo
+
+aperte ENTER para continuar
+
+
+
+---------------------- > programa 0819 > teste A
+method_09 - programa 0819
+
+number of integers in array: 11
+[-3, 21, 11, 6, 5, -5, 7, 8, 77, 100, 111]
+
+
+qual valor vc deseja procurar?  6
+
+
+o valor 6 FOI encontrado no arranjo
+ele esta na posicao 3
+
+aperte ENTER para continuar
+
+---------------------- > programa 0819 > teste B
+method_09 - programa 0819
+
+number of integers in array: 11
+[-3, 21, 11, 6, 5, -5, 7, 8, 77, 100, 111]
+
+
+qual valor vc deseja procurar?  34
+
+
+o valor 34 NAO foi encontrado no arranjo
+
+aperte ENTER para continuar
+
+
+
+---------------------- > programa 0820 > teste A
+method_10 - programa 0820
+
+number of integers in array: 20
+[-5, -4, 100, -3, -2, -1, 0, 1, 2, 3, 2, 4, 5, 6, 2, 7, 100, -4, -4, -4]
+
+
+qual valor vc deseja procurar?  -4
+
+
+o valor -4 FOI encontrado no arranjo
+ele aparece 4 vezes
+
+aperte ENTER para continuar
+
+---------------------- > programa 0820 > teste B
+method_10 - programa 0820
+
+number of integers in array: 20
+[-5, -4, 100, -3, -2, -1, 0, 1, 2, 3, 2, 4, 5, 6, 2, 7, 100, -4, -4, -4]
+
+
+qual valor vc deseja procurar?  18
+
+
+o valor 18 NAO foi encontrado no arranjo
+
+aperte ENTER para continuar

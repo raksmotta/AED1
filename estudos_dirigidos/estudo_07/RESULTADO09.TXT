@@ -1,0 +1,24 @@
+
+PaReDe
+maiusculas = 3
+
+de
+maiusculas = 0
+
+TiJoLoS
+maiusculas = 4
+
+AmaRElOs
+maiusculas = 4
+
+Raquel?\+
+maiusculas = 1
+
+De
+maiusculas = 1
+
+PARDE
+maiusculas = 5
+
+MoTTa!
+maiusculas = 3

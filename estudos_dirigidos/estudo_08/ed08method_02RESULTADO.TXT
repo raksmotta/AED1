@@ -1,0 +1,8 @@
+tamanho total do array = 5
+
+apenas valores positivos = 
+0
+2
+4
+6
+100

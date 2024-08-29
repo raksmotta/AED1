@@ -1,0 +1,224 @@
+PUC MINAS - AEDs1
+Mar/2024
+
+Autor: Raquel de Parde Motta
+Matricula: 854017
+
+>>>>>> outputs dos exercícios do ED05 <<<<<<
+
+
+
+
+
+---------------------- > programa 0611 > teste A
+method_01 - programa 0611
+
+insira um numero inteiro:  5
+6 12 18 24 30
+
+aperte ENTER para continuar
+
+---------------------- > programa 0611 > teste B
+method_01 - programa 0611
+
+insira um numero inteiro:  10
+6 12 18 24 30 36 42 48 54 60
+
+aperte ENTER para continuar
+
+
+
+---------------------- > programa 0612 > teste A
+method_02 - programa 0612
+
+insira um numero inteiro:  5
+30 24 18 12 6
+
+aperte ENTER para continuar
+
+---------------------- > programa 0612 > teste B
+method_02 - programa 0612
+
+insira um numero inteiro:  10
+60 54 48 42 36 30 24 18 12 6
+
+aperte ENTER para continuar
+
+
+
+---------------------- > programa 0613 > teste A
+method_03 - programa 0613
+
+insira um numero inteiro:  5
+1/1 1/6 1/12 1/18 1/24
+
+aperte ENTER para continuar
+ 
+---------------------- > programa 0613 > teste B
+method_03 - programa 0613
+
+insira um numero inteiro:  10
+1/1 1/6 1/12 1/18 1/24 1/30 1/36 1/42 1/48 1/54
+
+aperte ENTER para continuar
+
+
+
+---------------------- > programa 0614 > teste A
+method_04 - programa 0614
+
+insira um numero inteiro:  5
+1/24 1/18 1/12 1/6 1/1
+
+aperte ENTER para continuar
+
+---------------------- > programa 0614 > teste B
+method_04 - programa 0614
+
+insira um numero inteiro:  10
+1/54 1/48 1/42 1/36 1/30 1/24 1/18 1/12 1/6 1/1
+
+aperte ENTER para continuar
+
+
+
+---------------------- > programa 0615 > teste A
+method_05 - programa 0615
+
+insira um numero inteiro:  5
+[6] + [8] + [12] + [18] + [26] +
+resultado = 70
+
+aperte ENTER para continuar
+ 
+---------------------- > programa 0615 > teste B
+method_05 - programa 0615
+
+insira um numero inteiro:  10
+[6] + [8] + [12] + [18] + [26] + [36] + [48] + [62] + [78] + [96] +
+resultado = 390
+
+aperte ENTER para continuar
+
+
+
+---------------------- > programa 0616 > teste A
+method_06 - programa 0616
+
+insira um numero inteiro:  5
+[1/6] + [1/12] + [1/18] + [1/24] + [1/30] +
+resultado = 0.380556
+
+aperte ENTER para continuar
+ 
+---------------------- > programa 0616 > teste B
+method_06 - programa 0616
+
+insira um numero inteiro:  10
+[1/6] + [1/12] + [1/18] + [1/24] + [1/30] + [1/36] + [1/42] + [1/48] + [1/54] + [1/60] +
+resultado = 0.488161
+
+aperte ENTER para continuar
+
+
+
+---------------------- > programa 0617 > teste A
+method_07 - programa 0617
+
+escreva uma palavra: abcde
+
+a palavra que vc digitou foi:
+
+a
+b
+c
+d
+e
+
+
+aperte ENTER para continuar
+
+---------------------- > programa 0617 > teste B
+method_07 - programa 0617
+
+escreva uma palavra: Raquel!
+
+a palavra que vc digitou foi:
+
+R
+a
+q
+u
+e
+l
+!
+
+
+aperte ENTER para continuar
+
+
+
+---------------------- > programa 0618 > teste A
+method_08 - programa 0618
+
+escreva uma palavra: P4LaVr@1
+
+o numero de digitos com valores pares na palavra = 6
+
+aperte ENTER para continuar
+ 
+---------------------- > programa 0618 > teste B
+method_08 - programa 0618
+
+escreva uma palavra: raquEL1234
+
+o numero de digitos com valores pares na palavra = 4
+
+aperte ENTER para continuar
+
+
+
+---------------------- > programa 0619 > teste A
+method_09 - programa 0619
+
+escreva uma palavra: P4LaVr@1
+
+a qtd de maisuculas menores que L na palavra que vc digitou = 0
+
+aperte ENTER para continuar
+
+---------------------- > programa 0619 > teste B
+method_09 - programa 0619
+
+escreva uma palavra: ABCabcYXZyxz123
+
+a qtd de maisuculas menores que L na palavra que vc digitou = 3
+
+aperte ENTER para continuar
+
+
+
+---------------------- > programa 0620 > teste A
+method_10 - programa 0620
+
+insira um numero inteiro:  3
+2 + 8 + 34 +
+soma = 44
+
+aperte ENTER para continuar
+
+---------------------- > programa 0620 > teste B
+method_10 - programa 0620
+
+insira um numero inteiro:  6
+2 + 8 + 34 + 144 + 610 + 2584 +
+soma = 3382
+
+aperte ENTER para continuar
+
+
+
+
+
+
+

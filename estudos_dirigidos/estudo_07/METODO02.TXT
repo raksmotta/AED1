@@ -1,0 +1,9 @@
+multiplos de 5 impares, em ordem decrescente, encerrando em 25:
+
+85
+75
+65
+55
+45
+35
+25

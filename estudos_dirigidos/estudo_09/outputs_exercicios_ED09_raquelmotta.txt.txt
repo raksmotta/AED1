@@ -1,0 +1,637 @@
+PUC MINAS - AEDs1
+Mai/2024
+
+Autor: Raquel de Parde Motta
+Matricula: 854017
+
+>>>>>> outputs dos exercícios do ED09 <<<<<<
+
+---------------------- > programa 0911 > teste A
+method_01 - programa 0911
+
+numero de linhas da matriz = -4
+
+numero de colunas da matriz = 4
+
+numero de linhas da matriz = 0
+
+numero de colunas da matriz = 3
+
+numero de linhas da matriz = 3
+
+numero de colunas da matriz = 3
+
+linhas = 3
+colunas = 3
+
+0 , 0 : 9
+valor invalido. entre apenas com numeros negativos
+0 , 0 : -1
+
+0 , 1 : 0
+valor invalido. entre apenas com numeros negativos
+0 , 1 : -2
+
+0 , 2 : -3
+
+1 , 0 : -4
+
+1 , 1 : -5
+
+1 , 2 : -6
+
+2 , 0 : -7.77
+
+2 , 1 : -8
+
+2 , 2 : -0.3
+
+-1.000000       -2.000000       -3.000000
+-4.000000       -5.000000       -6.000000
+-7.770000       -8.000000       -0.300000
+
+
+aperte ENTER para continuar
+
+
+
+
+
+---------------------- > programa 0912 > teste A
+method_02 - programa 0912
+
+numero de linhas da matriz = 2
+
+numero de colunas da matriz = 3
+
+linhas = 2
+colunas = 3
+
+0 , 0 : 4
+valor invalido. entre apenas com numeros negativos
+0 , 0 : -4
+
+0 , 1 : -5
+
+0 , 2 : -6
+
+1 , 0 : -7
+
+1 , 1 : -8
+
+1 , 2 : -9
+
+
+-4.000000       -5.000000       -6.000000
+-7.000000       -8.000000       -9.000000
+
+
+aperte ENTER para continuar
+
+
+
+
+
+---------------------- > programa 0913 > teste A
+method_03 - programa 0913
+
+numero de linhas da matriz = 4
+
+numero de colunas da matriz = 4
+
+linhas = 4
+colunas = 4
+
+0 , 0 : -3
+
+0 , 1 : -4
+
+0 , 2 : -5
+
+0 , 3 : -7
+
+1 , 0 : -1
+
+1 , 1 : -8
+
+1 , 2 : -9
+
+1 , 3 : -12
+
+2 , 0 : -21
+
+2 , 1 : -34
+
+2 , 2 : -4.5
+
+2 , 3 : -2
+
+3 , 0 : -6
+
+3 , 1 : -1.1
+
+3 , 2 : -0.6
+
+3 , 3 : -99
+
+-3.000000       -4.000000       -5.000000       -7.000000
+-1.000000       -8.000000       -9.000000       -12.000000
+-21.000000      -34.000000      -4.500000       -2.000000
+-6.000000       -1.100000       -0.600000       -99.000000
+
+
+valores na diagonal principal:
+-3.000000 -8.000000 -4.500000 -99.000000
+
+
+aperte ENTER para continuar
+
+
+
+
+
+---------------------- > programa 0914 > teste A
+method_04 - programa 0914
+
+numero de linhas da matriz = -1
+
+numero de colunas da matriz = 1
+
+numero de linhas da matriz = 2
+
+numero de colunas da matriz = 3
+
+linhas = 2
+colunas = 3
+
+0 , 0 : 1
+valor invalido. entre apenas com numeros negativos
+0 , 0 : 2
+valor invalido. entre apenas com numeros negativos
+0 , 0 : -3
+
+0 , 1 : -4
+
+0 , 2 : -5
+
+1 , 0 : -6
+
+1 , 1 : -7
+
+1 , 2 : -8
+
+-3.000000       -4.000000       -5.000000
+-6.000000       -7.000000       -8.000000
+
+
+a matriz nao eh quadrada
+
+aperte ENTER para continuar
+
+---------------------- > programa 0914 > teste B
+method_04 - programa 0914
+
+numero de linhas da matriz = 3
+
+numero de colunas da matriz = 3
+
+linhas = 3
+colunas = 3
+
+0 , 0 : -1
+
+0 , 1 : -2
+
+0 , 2 : -3
+
+1 , 0 : -4
+
+1 , 1 : -5
+
+1 , 2 : -6
+
+2 , 0 : -7
+
+2 , 1 : -8
+
+2 , 2 : -11
+
+-1.000000       -2.000000       -3.000000
+-4.000000       -5.000000       -6.000000
+-7.000000       -8.000000       -11.000000
+
+
+valores na diagonal secundaria:
+-3.000000 -5.000000 -7.000000
+
+
+aperte ENTER para continuar
+
+
+
+
+
+---------------------- > programa 0915 > teste A
+method_05 - programa 0915
+
+numero de linhas da matriz = 3
+
+numero de colunas da matriz = 3
+
+linhas = 3
+colunas = 3
+
+0 , 0 : 1
+valor invalido. entre apenas com numeros negativos
+0 , 0 : -1
+
+0 , 1 : -2.3
+
+0 , 2 : -2.54
+
+1 , 0 : -30
+
+1 , 1 : -4
+
+1 , 2 : -9
+
+2 , 0 : -27
+
+2 , 1 : -88
+
+2 , 2 : -0.2
+
+-1.000000       -2.300000       -2.540000
+-30.000000      -4.000000       -9.000000
+-27.000000      -88.000000      -0.200000
+
+
+valores na diagonal principal e abaixo:
+-1.000000
+-30.000000 -4.000000
+-27.000000 -88.000000 -0.200000
+
+
+aperte ENTER para continuar
+
+
+
+
+
+---------------------- > programa 0916 > teste A
+method_06 - programa 0916
+
+numero de linhas da matriz = 3
+
+numero de colunas da matriz = 3
+
+linhas = 3
+colunas = 3
+
+0 , 0 : 1
+
+0 , 1 : 2
+
+0 , 2 : 3
+
+1 , 0 : 4
+
+1 , 1 : 5
+
+1 , 2 : 6
+
+2 , 0 : 7
+
+2 , 1 : 8
+
+2 , 2 : 9
+
+1.000000        2.000000        3.000000
+4.000000        5.000000        6.000000
+7.000000        8.000000        9.000000
+
+
+valores na diagonal principal e acima:
+1.000000 2.000000 3.000000
+5.000000 6.000000
+9.000000
+
+
+aperte ENTER para continuar
+
+
+
+
+
+---------------------- > programa 0917 > teste A
+method_07 - programa 0917
+
+numero de linhas da matriz = 3
+
+numero de colunas da matriz = -1
+
+numero de linhas da matriz = 0
+
+numero de colunas da matriz = 3
+
+numero de linhas da matriz = 3
+
+numero de colunas da matriz = 3
+
+linhas = 3
+colunas = 3
+
+0 , 0 : -1
+
+0 , 1 : -2
+
+0 , 2 : 3
+
+1 , 0 : 4.56
+
+1 , 1 : 7.80
+
+1 , 2 : 3.33
+
+2 , 0 : -5.6
+
+2 , 1 : 1
+
+2 , 2 : 2
+
+-1.000000       -2.000000       3.000000
+4.560000        7.800000        3.330000
+-5.600000       1.000000        2.000000
+
+
+valores na diagonal secundaria e abaixo:
+3.000000
+3.330000 7.800000
+2.000000 1.000000 -5.600000
+
+
+aperte ENTER para continuar
+
+
+
+
+
+---------------------- > programa 0918 > teste A
+method_08 - programa 0918
+
+numero de linhas da matriz = 3
+
+numero de colunas da matriz = 3
+
+linhas = 3
+colunas = 3
+
+0 , 0 : 1
+
+0 , 1 : 2
+
+0 , 2 : 3
+
+1 , 0 : 4
+
+1 , 1 : 5
+
+1 , 2 : 6
+
+2 , 0 : 7
+
+2 , 1 : 8
+
+2 , 2 : 9
+
+1.000000        2.000000        3.000000
+4.000000        5.000000        6.000000
+7.000000        8.000000        9.000000
+
+
+valores na diagonal secundaria e acima:
+1.000000 2.000000 3.000000
+4.000000 5.000000
+7.000000
+
+
+aperte ENTER para continuar
+
+
+
+
+
+---------------------- > programa 0919 > teste A
+method_09 - programa 0919
+
+numero de linhas da matriz = 3
+
+numero de colunas da matriz = 2
+
+linhas = 3
+colunas = 2
+
+0 , 0 : 1
+
+0 , 1 : 2
+
+1 , 0 : 3
+
+1 , 1 : 4
+
+2 , 0 : 5
+
+2 , 1 : 6
+
+1.000000        2.000000
+3.000000        4.000000
+5.000000        6.000000
+
+
+a matriz nao eh quadrada
+
+aperte ENTER para continuar
+
+---------------------- > programa 0919 > teste B
+method_09 - programa 0919
+
+numero de linhas da matriz = 3
+
+numero de colunas da matriz = 3
+
+linhas = 3
+colunas = 3
+
+0 , 0 : 1
+
+0 , 1 : 2
+
+0 , 2 : 3
+
+1 , 0 : 4
+
+1 , 1 : 5
+
+1 , 2 : 6
+
+2 , 0 : 7
+
+2 , 1 : 8
+
+2 , 2 : 9
+
+1.000000        2.000000        3.000000
+4.000000        5.000000        6.000000
+7.000000        8.000000        9.000000
+
+
+valores abaixo da diagonal principal:
+
+4.000000
+7.000000 8.000000
+
+
+NAO sao todos zeros
+
+aperte ENTER para continuar
+
+---------------------- > programa 0919 > teste C
+method_09 - programa 0919
+
+numero de linhas da matriz = -2
+
+numero de colunas da matriz = 2
+
+numero de linhas da matriz = 0
+
+numero de colunas da matriz = 1
+
+numero de linhas da matriz = 3
+
+numero de colunas da matriz = 3
+
+linhas = 3
+colunas = 3
+
+0 , 0 : 1
+
+0 , 1 : 2
+
+0 , 2 : 3
+
+1 , 0 : 0
+
+1 , 1 : 1
+
+1 , 2 : 2
+
+2 , 0 : 0
+
+2 , 1 : 0
+
+2 , 2 : 1
+
+1.000000        2.000000        3.000000
+0.000000        1.000000        2.000000
+0.000000        0.000000        1.000000
+
+
+valores abaixo da diagonal principal:
+
+0.000000
+0.000000 0.000000
+
+
+SAO todos zeros
+
+aperte ENTER para continuar
+ 
+
+
+
+
+---------------------- > programa 0920 > teste A
+method_10 - programa 0920
+
+numero de linhas da matriz = 3
+
+numero de colunas da matriz = 3
+
+linhas = 3
+colunas = 3
+
+0 , 0 : 1
+
+0 , 1 : 2
+
+0 , 2 : 3
+
+1 , 0 : 4
+
+1 , 1 : 5
+
+1 , 2 : 6
+
+2 , 0 : 7
+
+2 , 1 : 8
+
+2 , 2 : 9
+
+1.000000        2.000000        3.000000
+4.000000        5.000000        6.000000
+7.000000        8.000000        9.000000
+
+
+valores acima da diagonal principal:
+3.000000 2.000000
+6.000000
+
+
+
+NAO sao todos zeros
+
+aperte ENTER para continuar
+
+---------------------- > programa 0920 > teste B
+method_10 - programa 0920
+
+numero de linhas da matriz = 3
+
+numero de colunas da matriz = 3
+
+linhas = 3
+colunas = 3
+
+0 , 0 : 1
+
+0 , 1 : 0
+
+0 , 2 : 0
+
+1 , 0 : 1
+
+1 , 1 : 2
+
+1 , 2 : 0
+
+2 , 0 : 1
+
+2 , 1 : 2
+
+2 , 2 : 3
+
+1.000000        0.000000        0.000000
+1.000000        2.000000        0.000000
+1.000000        2.000000        3.000000
+
+
+valores acima da diagonal principal:
+0.000000 0.000000
+0.000000
+
+
+
+SAO todos zeros
+
+aperte ENTER para continuar

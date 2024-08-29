@@ -1,0 +1,9 @@
+quantidade de numeros aleatorios = 8
+17
+5
+10
+16
+7
+6
+16
+4
