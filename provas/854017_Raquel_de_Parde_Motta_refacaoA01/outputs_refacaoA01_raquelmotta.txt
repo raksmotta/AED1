@@ -1,0 +1,137 @@
+PUC MINAS - AEDs1
+Abr/2024
+
+Autor: Raquel de Parde Motta
+Matricula: 854017
+
+>>>>>> outputs da refação A01 <<<<<<
+
+
+
+---------------------- > f_01 - questão 01
+questao 01
+
+
+resultado = -1
+
+
+aperte ENTER para continuar
+
+
+
+---------------------- > f_02 - questão 02
+questao 02
+
+
+f_02 (30, 72) = 1
+
+
+aperte ENTER para continuar
+
+
+
+---------------------- > p_03 - questão 03
+questao 03
+
+
+x = 3
+x = 5
+x = 7
+x = 9
+x = 11
+
+x = 3
+x = 5
+x = 7
+x = 9
+x = 11
+
+aperte ENTER para continuar
+
+
+
+---------------------- > p_04 - questão 04
+questao 04
+
+
+n = 5
+1 1 2 4 6
+
+aperte ENTER para continuar
+
+
+
+---------------------- > f_05 - questão 05
+questao 05
+
+resultado = 2
+
+aperte ENTER para continuar
+
+
+
+---------------------- > p_06 - questão 06
+questao 06
+
+numeros de Sheldon: 13 17 31 37 71 73 79 97
+no intervalo de 11 a 99, ha 4 pares de numeros de Sheldon
+
+aperte ENTER para continuar
+
+
+
+---------------------- > f_07 - questão 07
+questao 07
+
+saida para sequencia TACAGATA:
+
+a sequencia eh DNA
+retornou o valor [1]
+
+
+
+---------------------- > f_08 - questão 08 -----> teste A
+questao 08
+
+escreva uma cadeia de algarismos: 00000
+
+
+a sequencia ATENDE a afirmativa
+
+aperte ENTER para continuar
+
+
+
+---------------------- > f_08 - questão 08 -----> teste B
+questao 08
+
+escreva uma cadeia de algarismos: 5
+
+
+a sequencia NAO atende a afirmativa
+
+aperte ENTER para continuar
+
+
+
+---------------------- > f_08 - questão 08 -----> teste C
+questao 08
+
+escreva uma cadeia de algarismos: 1
+
+
+a sequencia ATENDE a afirmativa
+
+aperte ENTER para continuar
+
+
+
+---------------------- > f_08 - questão 08 -----> teste D
+questao 08
+
+escreva uma cadeia de algarismos: 364
+
+
+a sequencia NAO atende a afirmativa
+
+aperte ENTER para continuar

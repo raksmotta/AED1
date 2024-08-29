@@ -1,0 +1,80 @@
+PUC MINAS - AEDs1
+Jun/2024
+
+Autor: Raquel de Parde Motta
+Matricula: 854017
+
+>>>>>> outputs da refação A02 <<<<<<
+
+---------------------- > questão 01
+method_01 - questao 01
+q01 = 2
+
+aperte ENTER para continuar
+
+
+
+---------------------- > questão 02
+method_02 - questao 02
+[bqbubebi]
+
+aperte ENTER para continuar
+
+
+
+---------------------- > questão 03
+method_03 - questao 03
+
+
+
+   Weiss
+
+    Grun
+
+
+aperte ENTER para continuar
+
+
+
+---------------------- > questão 04
+method_04 - questao 04
+[castanholada]
+[cstanholada]
+[cstanholada]
+[cstnholada]
+[cstnholada]
+[cstnhlada]
+[cstnhlda]
+[cstnhlda]
+
+aperte ENTER para continuar
+
+
+
+---------------------- > questão 05
+method_05 - questao 05
+[padre]
+[perda]
+
+aperte ENTER para continuar
+
+
+
+---------------------- > questão 06
+method_06 - questao 06
+soma de MARIA DA SILVA = 11
+soma de ZIRALDO = 4
+
+aperte ENTER para continuar
+
+
+
+---------------------- > questão 07
+method_07 - questao 07
+o professor que fara aniversario primeiro eh o que viveu 6789 dias
+
+aperte ENTER para continuar
+
+
+
+---------------------- > questão 08: output no arquivo "resultado.txt"
