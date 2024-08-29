@@ -1,0 +1,181 @@
+exemplo 0200 
+
+
+>>>>>>>>>> teste A <<<<<<<<<<
+
+method_01 - exemplo0201
+Autor: Raquel de Parde Motta
+
+entre com um valor inteiro: 6
+valor diferente de zero(6)
+
+
+apertar ENTER para continuar
+
+
+>>>>>>>>>> teste B <<<<<<<<<<
+
+method_01 - exemplo0201
+Autor: Raquel de Parde Motta
+
+entre com um valor inteiro: 0
+valor igual a zero(0)
+
+
+apertar ENTER para continuar
+
+
+---//depois escolhi method 02
+
+
+method_02 - exemplo0201
+Autor: Raquel de Parde Motta
+
+entre com um valor inteiro: 7
+valor diferente de zero(7)
+
+
+apertar ENTER para continuar
+
+
+>>>>>>>>>> teste C <<<<<<<<<<
+
+method_01 - exemplo0201
+Autor: Raquel de Parde Motta
+
+entre com um valor inteiro: -6
+valor diferente de zero(-6)
+
+
+apertar ENTER para continuar
+
+
+---//depois escolhi method 02
+
+
+method_02 - exemplo0201
+Autor: Raquel de Parde Motta
+
+entre com um valor inteiro: 29.5
+valor diferente de zero(29)
+
+
+apertar ENTER para continuar
+
+
+>>>>>>>>>> teste D <<<<<<<<<<
+
+method_03 - exemplo0201
+Autor: Raquel de Parde Motta
+
+entre com um valor inteiro: 4
+valor diferente de zero(4)
+valor maior que zero(4)
+
+
+apertar ENTER para continuar
+
+
+>>>>>>>>>> teste E <<<<<<<<<<
+
+method_03 - exemplo0201
+Autor: Raquel de Parde Motta
+
+entre com um valor inteiro: -86
+valor diferente de zero(-86)
+valor menor que zero(-86)
+
+
+apertar ENTER para continuar
+
+
+>>>>>>>>>> teste F <<<<<<<<<<
+
+method_04 - exemplo0201
+Autor: Raquel de Parde Motta
+
+entre com um valor real: 5
+valor dentro do intervalo [1:10](5.000000)
+
+
+apertar ENTER para continuar
+
+
+>>>>>>>>>> teste G <<<<<<<<<<
+
+method_04 - exemplo0201
+Autor: Raquel de Parde Motta
+
+entre com um valor real: 10.645
+valor fora do intervalo [1:10](10.645000)
+valor acima do intervalo [1:10](10.645000)
+
+
+apertar ENTER para continuar
+
+
+>>>>>>>>>> teste H <<<<<<<<<<
+
+method_04 - exemplo0201
+Autor: Raquel de Parde Motta
+
+entre com um valor real: -9
+valor fora do intervalo [1:10](-9.000000)
+valor abaixo do intervalo [1:10](-9.000000)
+
+
+apertar ENTER para continuar
+
+
+>>>>>>>>>> teste I <<<<<<<<<<
+
+method_05 - exemplo0201
+Autor: Raquel de Parde Motta
+
+entre com um caractere: r
+letra minuscula (r)
+
+
+apertar ENTER para continuar
+
+
+>>>>>>>>>> teste J <<<<<<<<<<
+
+method_05 - exemplo0201
+Autor: Raquel de Parde Motta
+
+entre com um caractere: R
+valor diferente de minuscula (R)
+letra maiuscula (R)
+
+
+apertar ENTER para continuar
+
+
+>>>>>>>>>> teste K <<<<<<<<<<
+
+method_05 - exemplo0201
+Autor: Raquel de Parde Motta
+
+entre com um caractere: 4
+valor diferente de minuscula (4)
+algarismo (4)
+
+
+apertar ENTER para continuar
+
+
+>>>>>>>>>> teste L <<<<<<<<<<
+
+method_05 - exemplo0201
+Autor: Raquel de Parde Motta
+
+entre com um caractere: 100
+valor diferente de minuscula (1)
+algarismo (1)
+
+
+apertar ENTER para continuar
+
+
+

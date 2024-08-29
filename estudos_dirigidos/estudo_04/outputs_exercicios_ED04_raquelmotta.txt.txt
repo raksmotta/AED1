@@ -1,0 +1,255 @@
+PUC MINAS - AEDs1
+Mar/2024
+
+Autor: Raquel de Parde Motta
+Matricula: 854017
+
+>>>>>> outputs dos exercícios do ED04 <<<<<<
+
+
+
+
+
+---------------------- > programa 0411 > teste A 
+method_01 - programa 0411
+
+insira o limite inferior do intervalo: 4
+
+
+insira o limite superior do intervalo: 2
+
+
+insira o limite inferior do intervalo: 13.6
+
+
+insira o limite superior do intervalo: 22.6
+
+
+intervalo definido = [13.600000 : 22.600000]
+
+quantos valores vc quer testar? -9
+
+
+quantos valores vc quer testar? 0
+
+
+quantos valores vc quer testar? 10
+
+
+valor 1: 5.1
+
+
+valor 2: 10.5
+
+
+valor 3: 12.4
+
+
+valor 4: 14.2
+
+
+valor 5: 15.3
+
+
+valor 6: 18.3
+
+
+valor 7: -2
+
+
+valor 8: -21
+
+
+valor 9: 23.1
+
+
+valor 10: 24.2
+
+dentro: 14.200000
+dentro: 15.300000
+dentro: 18.300000
+
+fora: 5.100000
+fora: 10.500000
+fora: 12.400000
+fora: -2.000000
+fora: -21.000000
+fora: 23.100000
+fora: 24.200000
+
+3 valores dentro do intervalo e 7 valores fora
+
+
+aperte ENTER para continuar
+
+
+
+
+
+---------------------- > programa 0412 > teste A 
+method_02 - programa 0412
+
+insira uma palavra: AaKkLmM0*Nx
+
+
+M eh uma letra maiuscula maior que L
+
+N eh uma letra maiuscula maior que L
+
+total de letras maiusculas maiores que L = 2
+
+
+aperte ENTER para continuar
+
+
+
+
+
+---------------------- > programa 0413 > teste A
+method_03 - programa 0413
+
+insira uma palavra: AaKkLmM0*Nx
+
+
+total de letras maiusculas maiores que L = 2
+
+
+aperte ENTER para continuar
+
+
+
+
+
+
+---------------------- > programa 0414 > teste A 
+
+method_04 - programa 0414
+
+insira uma palavra: AaKkLmM0*Nx
+
+
+letras maiusculas maiores que L =  [M]  [N]
+
+total de letras maiusculas maiores que L = 2
+
+
+aperte ENTER para continuar
+
+
+
+
+
+
+---------------------- > programa 0415 > teste A
+method_05 - programa 0415
+
+insira uma palavra: AaKkLmM0*Nx
+
+
+letras maiusculas menores que 'L' =  [A]  [K]
+
+letras minusculas menores que 'l' =  [a]  [k]
+
+total de letras no intervalo [A , L) + letras no intervalo [a, l) = 4
+
+
+aperte ENTER para continuar
+
+
+
+
+---------------------- > programa 0416 > teste A
+method_06 - programa 0416
+
+insira uma palavra: AaKkLmM0*Nx
+
+
+letras maiusculas menores que 'L' =  [A]  [K]
+
+letras minusculas menores que 'k' =  [a]
+
+total de letras no intervalo [A , L) + letras no intervalo [a, k) = 3
+
+
+aperte ENTER para continuar
+
+
+
+
+---------------------- > programa 0417 > teste A
+method_07 - programa 0417
+
+insira uma palavra: A1b2C3d4E5f6
+
+
+total de digitos pares = 3
+
+
+aperte ENTER para continuar
+
+
+
+
+---------------------- > programa 0418 > teste A
+method_08 - programa 0418
+
+insira uma palavra: (A1b2+C3d4)*E5f6
+
+
+simbolos nao alfanumericos: [(] [+] [)] [*]
+
+total de simbolos nao-alfanumericos = 4
+
+
+aperte ENTER para continuar
+
+
+
+
+
+---------------------- > programa 0419 > teste A
+method_09 - programa 0419
+
+insira uma palavra: (A1b2+C3d4)*E5f6
+
+
+simbolos alfanumericos: [A] [1] [b] [2] [C] [3] [d] [4] [E] [5] [f] [6]
+
+total de alfanumericos (letras e digitos) = 12
+
+
+aperte ENTER para continuar
+
+
+
+
+
+---------------------- > programa 0420 > teste A
+method_10 - programa 0420
+
+quantas palavras vc quer testar? 3
+
+
+
+palavra 1: (A1b2+C3d4)*E5f6
+
+
+simbolos alfanumericos: [A] [1] [b] [2] [C] [3] [d] [4] [E] [5] [f] [6]
+
+
+palavra 2: [P&&Q]||[R&&!S]
+
+
+simbolos alfanumericos: [P] [Q] [R] [S]
+
+
+palavra 3: (a<b&&b<c)
+
+
+simbolos alfanumericos: [a] [b] [b] [c]
+
+
+total de alfanumericos (letras e digitos) = 20
+
+
+aperte ENTER para continuar

@@ -1,0 +1,957 @@
+PUC MINAS - AEDs1
+Mar/2024
+
+Autor: Raquel de Parde Motta
+Matricula: 854017
+
+>>>>>> outputs dos exercícios do ED02 <<<<<<
+
+---------------------- > programa 0211 > teste A > input -6
+
+estudo dirigido 02 - programas 0211 a 0220
+autor: raquel de parde motta
+matricula: 854017
+
+digite o numero correspondente a opcao desejada:
+
+0 - encerrar
+
+1 - method_01 - programa 0211
+
+opcao =  1
+
+
+method_01 - programa 0211
+
+digite um numero inteiro:  -6
+
+numero digitado = -6
+
+-6 eh um numero par
+
+aperte ENTER para continuar
+
+---------------------- > programa 0211 > teste B > input -3
+
+method_01 - programa 0211
+
+digite um numero inteiro:  -3
+
+numero digitado = -3
+
+-3 eh um numero impar
+
+aperte ENTER para continuar
+
+---------------------- > programa 0211 > teste C > input 0
+
+method_01 - programa 0211
+
+digite um numero inteiro:  0
+
+numero digitado = 0
+
+0 eh um numero par
+
+aperte ENTER para continuar
+
+---------------------- > programa 0211 > teste D > input 100
+
+method_01 - programa 0211
+
+digite um numero inteiro:  100
+
+numero digitado = 100
+
+100 eh um numero par
+
+aperte ENTER para continuar
+
+---------------------- > programa 0211 > teste E > input 9
+
+method_01 - programa 0211
+
+digite um numero inteiro:  9
+
+numero digitado = 9
+
+9 eh um numero impar
+
+aperte ENTER para continuar
+
+---------------------- > programa 0212 > teste A > input -60
+
+method_02 - programa 0212
+
+digite um numero inteiro:  -60
+
+numero digitado = -60
+
+-60 eh um numero par
+
+aperte ENTER para continuar
+
+---------------------- > programa 0212 > teste B > input -55
+
+method_02 - programa 0212
+
+digite um numero inteiro:  -55
+
+numero digitado = -55
+
+-55 eh um numero impar
+
+-55 eh menor que -25
+
+aperte ENTER para continuar
+
+---------------------- > programa 0212 > teste C > input -25
+
+method_02 - programa 0212
+
+digite um numero inteiro:  -25
+
+numero digitado = -25
+
+-25 eh um numero impar
+
+aperte ENTER para continuar
+
+---------------------- > programa 0212 > teste D > input 0
+
+method_02 - programa 0212
+
+digite um numero inteiro:  0
+
+numero digitado = 0
+
+0 eh um numero par
+
+aperte ENTER para continuar
+
+---------------------- > programa 0212 > teste E > input 7
+
+method_02 - programa 0212
+
+digite um numero inteiro:  7
+
+numero digitado = 7
+
+7 eh um numero impar
+
+aperte ENTER para continuar
+
+---------------------- > programa 0212 > teste F > input 26
+
+method_02 - programa 0212
+
+digite um numero inteiro:  26
+
+numero digitado = 26
+
+26 eh um numero par
+
+26 eh maior que 25
+
+aperte ENTER para continuar
+
+---------------------- > programa 0213 > teste A > input -40
+
+method_03 - programa 0213
+
+digite um numero inteiro:  -40
+
+numero digitado = -40
+
+-40 NAO pertence ao intervalo aberto entre (35:65)
+
+aperte ENTER para continuar
+
+---------------------- > programa 0213 > teste B > input 35
+
+method_03 - programa 0213
+
+digite um numero inteiro:  35
+
+numero digitado = 35
+
+35 NAO pertence ao intervalo aberto entre (35:65)
+
+aperte ENTER para continuar
+
+---------------------- > programa 0213 > teste C > input 40
+
+method_03 - programa 0213
+
+digite um numero inteiro:  40
+
+numero digitado = 40
+
+40 pertence ao intervalo aberto entre (35:65)
+
+aperte ENTER para continuar
+
+---------------------- > programa 0213 > teste D > input 9.99
+
+method_03 - programa 0213
+
+digite um numero inteiro:  9.99
+
+numero digitado = 9
+
+9 NAO pertence ao intervalo aberto entre (35:65)
+
+aperte ENTER para continuar
+
+digite o numero correspondente a opcao desejada:
+
+0 - encerrar
+
+1 - method_01 - programa 0211
+
+2 - method_02 - programa 0212
+
+3 - method_03 - programa 0213
+
+opcao =
+
+erro - opcao invalida
+
+---------------------- > programa 0213 > teste E > input 70
+
+method_03 - programa 0213
+
+digite um numero inteiro:  70
+
+numero digitado = 70
+
+70 NAO pertence ao intervalo aberto entre (35:65)
+
+aperte ENTER para continuar
+
+---------------------- > programa 0214 > teste A > input -40
+
+method_04 - programa 0214
+
+digite um numero inteiro:  -40
+
+numero digitado = -40
+
+-40 NAO pertence ao intervalo fechado entre [15:60]
+
+aperte ENTER para continuar
+
+---------------------- > programa 0214 > teste B > input 15
+
+method_04 - programa 0214
+
+digite um numero inteiro:  15
+
+numero digitado = 15
+
+15 pertence ao intervalo fechado entre [15:60]
+
+aperte ENTER para continuar
+
+---------------------- > programa 0214 > teste C > input 33
+
+method_04 - programa 0214
+
+digite um numero inteiro:  33
+
+numero digitado = 33
+
+33 pertence ao intervalo fechado entre [15:60]
+
+aperte ENTER para continuar
+
+---------------------- > programa 0214 > teste D > input 60
+
+method_04 - programa 0214
+
+digite um numero inteiro:  60
+
+numero digitado = 60
+
+60 pertence ao intervalo fechado entre [15:60]
+
+aperte ENTER para continuar
+
+---------------------- > programa 0214 > teste E > input 345
+
+method_04 - programa 0214
+
+digite um numero inteiro:  345
+
+numero digitado = 345
+
+345 NAO pertence ao intervalo fechado entre [15:60]
+
+aperte ENTER para continuar
+
+---------------------- > programa 0215 > teste A > input 5
+
+method_05 - programa 0215
+
+digite um numero inteiro:  5
+
+numero digitado = 5
+
+5 NAO pertence nem ao intervalo [10:30], nem ao intervalo (25:50)
+
+aperte ENTER para continuar
+
+---------------------- > programa 0215 > teste B > input 15
+
+method_05 - programa 0215
+
+digite um numero inteiro:  15
+
+numero digitado = 15
+
+15 pertence ao intervalo fechado entre [10:30]
+
+aperte ENTER para continuar
+
+---------------------- > programa 0215 > teste C > input 20
+
+method_05 - programa 0215
+
+digite um numero inteiro:  20
+
+numero digitado = 20
+
+20 pertence ao intervalo fechado entre [10:30]
+
+aperte ENTER para continuar
+
+---------------------- > programa 0215 > teste D > input 26
+
+method_05 - programa 0215
+
+digite um numero inteiro:  26
+
+numero digitado = 26
+
+26 pertence tanto ao intervalo [10:30], quanto ao intervalo (25:50)
+
+aperte ENTER para continuar
+
+---------------------- > programa 0215 > teste E > input 30
+
+method_05 - programa 0215
+
+digite um numero inteiro:  30
+
+numero digitado = 30
+
+30 pertence tanto ao intervalo [10:30], quanto ao intervalo (25:50)
+
+aperte ENTER para continuar
+
+---------------------- > programa 0215 > teste D > input 60
+
+method_05 - programa 0215
+
+digite um numero inteiro:  60
+
+numero digitado = 60
+
+60 NAO pertence nem ao intervalo [10:30], nem ao intervalo (25:50)
+
+aperte ENTER para continuar
+
+---------------------- > programa 0216 > teste A > input 5 , 15
+
+method_06 - programa 0216
+
+digite um numero inteiro:  5
+
+primeiro numero digitado = 5
+
+digite um outro numero inteiro:  15
+
+segundo numero digitado = 15
+
+5 eh um numero impar
+
+aperte ENTER para continuar
+
+---------------------- > programa 0216 > teste B > input 35 , 40
+
+method_06 - programa 0216
+
+digite um numero inteiro:  35
+
+primeiro numero digitado = 35
+
+digite um outro numero inteiro:  40
+
+segundo numero digitado = 40
+
+35 eh um numero impar
+
+40 eh um numero par
+
+aperte ENTER para continuar
+
+---------------------- > programa 0216 > teste C > input 60 , 77
+
+method_06 - programa 0216
+
+digite um numero inteiro:  60
+
+primeiro numero digitado = 60
+
+digite um outro numero inteiro:  77
+
+segundo numero digitado = 77
+
+aperte ENTER para continuar
+
+---------------------- > programa 0216 > teste D > input 10 , 20
+
+method_06 - programa 0216
+
+digite um numero inteiro:  10
+
+primeiro numero digitado = 10
+
+digite um outro numero inteiro:  20
+
+segundo numero digitado = 20
+
+20 eh um numero par
+
+aperte ENTER para continuar
+
+---------------------- > programa 0217 > teste A > input -5 , -10
+
+method_07 - programa 0217
+
+digite um numero inteiro:  -5
+
+primeiro numero digitado = -5
+
+digite um outro numero inteiro:  -10
+
+segundo numero digitado = -10
+
+-5 nao eh um numero par e eh negativo.
+
+-10 nao eh um numero impar e nao eh positivo.
+
+aperte ENTER para continuar
+
+---------------------- > programa 0217 > teste B > input -8 , -3
+
+method_07 - programa 0217
+
+digite um numero inteiro:  -8
+
+primeiro numero digitado = -8
+
+digite um outro numero inteiro:  -3
+
+segundo numero digitado = -3
+
+-8 eh um numero par e eh negativo.
+
+-3 eh um numero impar e nao eh positivo.
+
+aperte ENTER para continuar
+
+---------------------- > programa 0217 > teste C > input -4 , -4
+
+method_07 - programa 0217
+
+digite um numero inteiro:  -4
+
+primeiro numero digitado = -4
+
+digite um outro numero inteiro:  -4
+
+segundo numero digitado = -4
+
+-4 eh um numero par e eh negativo.
+
+-4 nao eh um numero impar e nao eh positivo.
+
+aperte ENTER para continuar
+
+---------------------- > programa 0217 > teste D > input -1 , -1
+
+method_07 - programa 0217
+
+digite um numero inteiro:  -1
+
+primeiro numero digitado = -1
+
+digite um outro numero inteiro:  -1
+
+segundo numero digitado = -1
+
+-1 nao eh um numero par e eh negativo.
+
+-1 eh um numero impar e nao eh positivo.
+
+aperte ENTER para continuar
+
+---------------------- > programa 0217 > teste E > input 5 , 10
+
+method_07 - programa 0217
+
+digite um numero inteiro:  5
+
+primeiro numero digitado = 5
+
+digite um outro numero inteiro:  10
+
+segundo numero digitado = 10
+
+5 nao eh um numero par e nao eh negativo.
+
+10 nao eh um numero impar e eh positivo.
+
+aperte ENTER para continuar
+
+---------------------- > programa 0217 > teste F > input 8 , 3
+
+method_07 - programa 0217
+
+digite um numero inteiro:  8
+
+primeiro numero digitado = 8
+
+digite um outro numero inteiro:  3
+
+segundo numero digitado = 3
+
+8 eh um numero par e nao eh negativo.
+
+3 eh um numero impar e eh positivo.
+
+aperte ENTER para continuar
+
+---------------------- > programa 0217 > teste G > input 4 , 4
+
+method_07 - programa 0217
+
+digite um numero inteiro:  4
+
+primeiro numero digitado = 4
+
+digite um outro numero inteiro:  4
+
+segundo numero digitado = 4
+
+4 eh um numero par e nao eh negativo.
+
+4 nao eh um numero impar e eh positivo.
+
+aperte ENTER para continuar
+
+---------------------- > programa 0217 > teste H > input 1 , 1
+
+method_07 - programa 0217
+
+digite um numero inteiro:  1
+
+primeiro numero digitado = 1
+
+digite um outro numero inteiro:  1
+
+segundo numero digitado = 1
+
+1 nao eh um numero par e nao eh negativo.
+
+1 eh um numero impar e eh positivo.
+
+aperte ENTER para continuar
+
+---------------------- > programa 0218 > teste A > input 1.5 , 0.5
+
+method_08 - programa 0218
+
+digite um numero real:  1.5
+
+primeiro numero digitado = 1.500000
+
+digite um outro numero real:  0.5
+
+segundo numero digitado = 0.500000
+
+1/3 do primeiro numero digitado = 0.500000
+0.500000 eh igual a 0.500000
+
+aperte ENTER para continuar
+
+---------------------- > programa 0218 > teste B > input 3.0 , 3.0
+
+method_08 - programa 0218
+
+digite um numero real:  3.0
+
+primeiro numero digitado = 3.000000
+
+digite um outro numero real:  3.0
+
+segundo numero digitado = 3.000000
+
+1/3 do primeiro numero digitado = 1.000000
+3.000000 eh maior que 1.000000
+
+aperte ENTER para continuar
+
+---------------------- > programa 0218 > teste C > input -5.5 , 6.4
+
+method_08 - programa 0218
+
+digite um numero real:  -5.5
+
+primeiro numero digitado = -5.500000
+
+digite um outro numero real:  6.4
+
+segundo numero digitado = 6.400000
+
+1/3 do primeiro numero digitado = -1.833333
+6.400000 eh maior que -1.833333
+
+aperte ENTER para continuar
+
+---------------------- > programa 0218 > teste D > input 7.8 , -8.7
+
+method_08 - programa 0218
+
+digite um numero real:  7.8
+
+primeiro numero digitado = 7.800000
+
+digite um outro numero real:  -8.7
+
+segundo numero digitado = -8.700000
+
+1/3 do primeiro numero digitado = 2.600000
+-8.700000 eh menor que 2.600000
+
+aperte ENTER para continuar
+
+---------------------- > programa 0219 > teste A > input 1 , 2 , 3
+
+method_09 - programa 0219
+
+
+digite um numero real:  1
+
+
+digite outro numero real:  2
+
+
+digite outro numero real:  3
+
+
+primeiro numero digitado = 1.000000
+segundo numero digitado = 2.000000
+terceiro numero digitado = 3.000000
+
+1.000000 NAO esta entre 2.000000 e 3.000000
+
+aperte ENTER para continuar
+
+---------------------- > programa 0219 > teste B > input 4 , 2 , 3
+
+method_09 - programa 0219
+
+
+digite um numero real:  4
+
+
+digite outro numero real:  2
+
+
+digite outro numero real:  3
+
+
+primeiro numero digitado = 4.000000
+segundo numero digitado = 2.000000
+terceiro numero digitado = 3.000000
+
+4.000000 NAO esta entre 2.000000 e 3.000000
+
+aperte ENTER para continuar
+
+---------------------- > programa 0219 > teste C > input 5 , 4 , 6
+
+method_09 - programa 0219
+
+
+digite um numero real:  5
+
+
+digite outro numero real:  4
+
+
+digite outro numero real:  6
+
+
+primeiro numero digitado = 5.000000
+segundo numero digitado = 4.000000
+terceiro numero digitado = 6.000000
+
+5.000000 esta entre 4.000000 e 6.000000
+
+aperte ENTER para continuar
+
+---------------------- > programa 0219 > teste D > input -1 , 10 , -7
+
+method_09 - programa 0219
+
+
+digite um numero real:  -1
+
+
+digite outro numero real:  10
+
+
+digite outro numero real:  -7
+
+
+primeiro numero digitado = -1.000000
+segundo numero digitado = 10.000000
+terceiro numero digitado = -7.000000
+
+-1.000000 esta entre -7.000000 e 10.000000
+
+aperte ENTER para continuar
+
+---------------------- > programa 0219 > teste E > input 1 , 2 , 2
+
+method_09 - programa 0219
+
+
+digite um numero real:  1
+
+
+digite outro numero real:  2
+
+
+digite outro numero real:  2
+
+
+o segundo e o terceiro valores devem ser diferentes entre si. por favor digite os numeros novamente.
+
+
+digite um numero real:
+
+---------------------- > programa 0219 > teste F > input 2 , 2 , 2
+
+method_09 - programa 0219
+
+
+digite um numero real:  2
+
+
+digite outro numero real:  2
+
+
+digite outro numero real:  2
+
+
+o segundo e o terceiro valores devem ser diferentes entre si. por favor digite os numeros novamente.
+
+
+digite um numero real:
+
+---------------------- > programa 0219 > teste G > input 9 , 7 , 9
+
+method_09 - programa 0219
+
+
+digite um numero real:  9
+
+
+digite outro numero real:  7
+
+
+digite outro numero real:  9
+
+
+primeiro numero digitado = 9.000000
+segundo numero digitado = 7.000000
+terceiro numero digitado = 9.000000
+
+9.000000 NAO esta entre 7.000000 e 9.000000
+
+aperte ENTER para continuar
+
+---------------------- > programa 0219 > teste H > input 9 , 9 , 7
+
+method_09 - programa 0219
+
+
+digite um numero real:  9
+
+
+digite outro numero real:  9
+
+
+digite outro numero real:  7
+
+
+primeiro numero digitado = 9.000000
+segundo numero digitado = 9.000000
+terceiro numero digitado = 7.000000
+
+9.000000 NAO esta entre 9.000000 e 7.000000
+
+aperte ENTER para continuar
+
+
+---------------------- > programa 0220 > teste A > input 5 , 6 , 6
+						   input 6 , 5 , 6
+						   input 6 , 6 , 5
+						   input 6 , 6 , 6
+															
+
+method_10 - programa 0220
+
+
+digite um numero real:  5
+
+
+digite outro numero real:  6
+
+
+digite outro numero real:  6
+
+
+todos os valores devem ser diferentes entre si. por favor digite os numeros novamente.
+
+
+digite um numero real:  6
+
+
+digite outro numero real:  5
+
+
+digite outro numero real:  6
+
+
+todos os valores devem ser diferentes entre si. por favor digite os numeros novamente.
+
+
+digite um numero real:  6
+
+
+digite outro numero real:  6
+
+
+digite outro numero real:  5
+
+
+todos os valores devem ser diferentes entre si. por favor digite os numeros novamente.
+
+
+digite um numero real:  6
+
+
+digite outro numero real:  6
+
+
+digite outro numero real:  6
+
+
+todos os valores devem ser diferentes entre si. por favor digite os numeros novamente.
+
+
+digite um numero real:
+
+---------------------- > programa 0220 > teste B > input 1 , 2 , 3
+
+method_10 - programa 0220
+
+
+digite um numero real:  1
+
+
+digite outro numero real:  2
+
+
+digite outro numero real:  3
+
+
+primeiro numero digitado = 1.000000
+segundo numero digitado = 2.000000
+terceiro numero digitado = 3.000000
+
+1.000000 NAO esta entre 2.000000 e 3.000000
+
+aperte ENTER para continuar
+
+---------------------- > programa 0220 > teste C > input 4 , 2 , 3
+
+method_10 - programa 0220
+
+
+digite um numero real:  4
+
+
+digite outro numero real:  2
+
+
+digite outro numero real:  3
+
+
+primeiro numero digitado = 4.000000
+segundo numero digitado = 2.000000
+terceiro numero digitado = 3.000000
+
+4.000000 NAO esta entre 2.000000 e 3.000000
+
+aperte ENTER para continuar
+
+---------------------- > programa 0220 > teste D > input 2 , 1 , 3
+
+method_10 - programa 0220
+
+
+digite um numero real:  2
+
+
+digite outro numero real:  1
+
+
+digite outro numero real:  3
+
+
+primeiro numero digitado = 2.000000
+segundo numero digitado = 1.000000
+terceiro numero digitado = 3.000000
+
+2.000000 esta entre 1.000000 e 3.000000
+
+aperte ENTER para continuar
+
+---------------------- > programa 0220 > teste E > input 2 , 3 , 1
+
+method_10 - programa 0220
+
+
+digite um numero real:  2
+
+
+digite outro numero real:  3
+
+
+digite outro numero real:  1
+
+
+primeiro numero digitado = 2.000000
+segundo numero digitado = 3.000000
+terceiro numero digitado = 1.000000
+
+2.000000 esta entre 1.000000 e 3.000000
+
+aperte ENTER para continuar
+

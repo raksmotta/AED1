@@ -1,0 +1,387 @@
+PUC MINAS - AEDs1
+Mar/2024
+
+Autor: Raquel de Parde Motta
+Matricula: 854017
+
+>>>>>> outputs dos exercícios do ED05 <<<<<<
+
+
+
+
+
+---------------------- > programa 0511 > teste A
+method_01 - programa 0511
+
+insira um numero inteiro:  5
+
+
+multiplos de 6 em ordem crescente:
+[6]  [12]  [18]  [24]  [30]
+
+
+aperte ENTER para continuar
+
+
+
+---------------------- > programa 0511 > teste B
+method_01 - programa 0511
+
+insira um numero inteiro:  6
+
+
+multiplos de 6 em ordem crescente:
+[6]  [12]  [18]  [24]  [30]  [36]
+
+
+aperte ENTER para continuar
+
+
+
+---------------------- > programa 0511 > teste C
+insira um numero inteiro:  9
+
+
+multiplos de 6 em ordem crescente:
+[6]  [12]  [18]  [24]  [30]  [36]  [42]  [48]  [54]
+
+
+aperte ENTER para continuar
+
+
+
+---------------------- > programa 0512 > teste A
+method_02 - programa 0512
+
+insira um numero inteiro:  5
+
+
+multiplos de 3 e 5 em ordem crescente:
+[15]  [30]  [45]  [60]  [75]
+
+
+aperte ENTER para continuar
+
+
+
+---------------------- > programa 0512 > teste B
+method_02 - programa 0512
+
+insira um numero inteiro:  8
+
+
+multiplos de 3 e 5 em ordem crescente:
+[15]  [30]  [45]  [60]  [75]  [90]  [105]  [120]
+
+
+aperte ENTER para continuar
+
+
+
+---------------------- > programa 0512 > teste C
+method_02 - programa 0512
+
+insira um numero inteiro:  10
+
+
+multiplos de 3 e 5 em ordem crescente:
+[15]  [30]  [45]  [60]  [75]  [90]  [105]  [120]  [135]  [150]
+
+
+aperte ENTER para continuar
+
+
+
+---------------------- > programa 0513 > teste A
+method_03 - programa 0513
+
+insira um numero inteiro:  5
+
+
+potencias de 4 em ordem decresente:
+[1024]  [256]  [64]  [16]  [4]  [1]
+
+
+aperte ENTER para continuar
+
+
+ 
+---------------------- > programa 0513 > teste B
+method_03 - programa 0513
+
+insira um numero inteiro:  6
+
+
+potencias de 4 em ordem decresente:
+[4096]  [1024]  [256]  [64]  [16]  [4]  [1]
+
+
+aperte ENTER para continuar
+
+
+
+---------------------- > programa 0513 > teste C
+method_03 - programa 0513
+
+insira um numero inteiro:  7
+
+
+potencias de 4 em ordem decresente:
+[16384]  [4096]  [1024]  [256]  [64]  [16]  [4]  [1]
+
+
+aperte ENTER para continuar
+
+ 
+
+---------------------- > programa 0514 > teste A
+method_04 - programa 0514
+
+insira um numero inteiro:  5
+
+
+valores crescentes multiplos de 7 nos denominadores:
+[1/7]  [1/14]  [1/21]  [1/28]  [1/35]
+
+
+aperte ENTER para continuar
+
+
+
+---------------------- > programa 0514 > teste B
+method_04 - programa 0514
+
+insira um numero inteiro:  8
+
+
+valores crescentes multiplos de 7 nos denominadores:
+[1/7]  [1/14]  [1/21]  [1/28]  [1/35]  [1/42]  [1/49]  [1/56]
+
+
+aperte ENTER para continuar
+
+
+ 
+---------------------- > programa 0514 > teste C
+method_04 - programa 0514
+
+insira um numero inteiro:  10
+
+
+valores crescentes multiplos de 7 nos denominadores:
+[1/7]  [1/14]  [1/21]  [1/28]  [1/35]  [1/42]  [1/49]  [1/56]  [1/63]  [1/70]
+
+
+aperte ENTER para continuar
+
+
+
+---------------------- > programa 0515 > teste A
+method_05 - programa 0515
+
+insira um numero real:  2.3
+
+
+insira um numero inteiro:  5
+[1/5.290000]  [1/27.984100]  [1/148.035889]  [1/783.109853]  [1/4142.651121]
+
+
+aperte ENTER para continuar
+
+
+ 
+---------------------- > programa 0515 > teste B
+method_05 - programa 0515
+
+insira um numero real:  5
+
+
+insira um numero inteiro:  4
+[1/25.000000]  [1/625.000000]  [1/15625.000000]  [1/390625.000000]
+
+
+aperte ENTER para continuar
+
+
+ 
+---------------------- > programa 0515 > teste C
+method_05 - programa 0515
+
+insira um numero real:  3.76
+
+
+insira um numero inteiro:  10
+[1/14.137600]  [1/199.871734]  [1/2825.706623]  [1/39948.709956]  [1/564778.881877]  [1/7984617.920427]  [1/112883334.311825]  [1/1595899427.166856]  [1/22562187741.514137]  [1/318975185414.430237]
+
+
+aperte ENTER para continuar 
+
+
+
+---------------------- > programa 0516 > teste A
+method_06 - programa 0516
+
+insira um numero inteiro:  5
+
+
+soma dos valores de 3 em 3 (exceto multiplos de 5):
+
+[3] + [6] + [9] + [12] + [18] +
+
+total = 48
+
+
+aperte ENTER para continuar
+
+
+ 
+---------------------- > programa 0516 > teste B
+method_06 - programa 0516
+
+insira um numero inteiro:  15
+
+
+soma dos valores de 3 em 3 (exceto multiplos de 5):
+
+[3] + [6] + [9] + [12] + [18] + [21] + [24] + [27] + [33] + [36] + [39] + [42] + [48] + [51] + [54] +
+
+total = 423
+
+
+aperte ENTER para continuar
+
+
+
+---------------------- > programa 0517 > teste A
+method_07 - programa 0517
+
+insira um numero inteiro:  5
+
+
+soma dos valores de 6 em 6 (exceto multiplos de 5):
+
+[1/6] + [1/12] + [1/18] + [1/24] + [1/36] +
+
+total = 0.375000
+
+
+aperte ENTER para continuar
+
+
+
+---------------------- > programa 0517 > teste B
+method_07 - programa 0517
+
+insira um numero inteiro:  15
+
+
+soma dos valores de 6 em 6 (exceto multiplos de 5):
+
+[1/6] + [1/12] + [1/18] + [1/24] + [1/36] + [1/42] + [1/48] + [1/54] + [1/66] + [1/72] + [1/78] + [1/84] + [1/96] + [1/102] + [1/108] +
+
+total = 0.521407
+
+
+aperte ENTER para continuar
+
+
+
+---------------------- > programa 0518 > teste A
+method_08 - programa 0518
+
+insira um numero inteiro:  5
+
+
+soma da adicao dos primeiros valores naturais comeτando no valor 6:
+
+[6] + [7] + [9] + [12] + [16] +
+
+total = 51
+
+
+aperte ENTER para continuar
+
+
+ 
+---------------------- > programa 0518 > teste B
+method_08 - programa 0518
+
+insira um numero inteiro:  15
+
+
+soma da adicao dos primeiros valores naturais comeτando no valor 6:
+
+[6] + [7] + [9] + [12] + [16] + [21] + [27] + [34] + [42] + [51] + [61] + [72] + [84] + [97] + [111] +
+
+total = 651
+
+
+aperte ENTER para continuar 
+
+
+
+---------------------- > programa 0519 > teste A
+method_09 - programa 0519
+
+insira um numero inteiro:  5
+
+
+soma dos quadrados da adicao dos numeros naturais comecando no valor 6:
+
+[36.000000] + [49.000000] + [64.000000] + [81.000000] + [100.000000] +
+
+total = 330.000000
+
+
+aperte ENTER para continuar
+
+
+ 
+---------------------- > programa 0519 > teste B
+method_09 - programa 0519
+
+insira um numero inteiro:  15
+
+
+soma dos quadrados da adicao dos numeros naturais comecando no valor 6:
+
+[36.000000] + [49.000000] + [64.000000] + [81.000000] + [100.000000] + [121.000000] + [144.000000] + [169.000000] + [196.000000] + [225.000000] + [256.000000] + [289.000000] + [324.000000] + [361.000000] + [400.000000] +
+
+total = 2815.000000
+
+
+aperte ENTER para continuar
+
+
+
+---------------------- > programa 0520 > teste A
+method_10 - programa 0520
+
+insira um numero inteiro:  5
+
+
+soma dos inversos (1/x) das adicoes de numeros naturais terminando no valor 6:
+
+[1/16] + [1/12] + [1/9] + [1/7] + [1/6] +
+
+total = 0.566468
+
+
+aperte ENTER para continuar
+
+
+
+---------------------- > programa 0520 > teste B
+method_10 - programa 0520
+
+insira um numero inteiro:  15
+
+
+soma dos inversos (1/x) das adicoes de numeros naturais terminando no valor 6:
+
+[1/111] + [1/97] + [1/84] + [1/72] + [1/61] + [1/51] + [1/42] + [1/34] + [1/27] + [1/21] + [1/16] + [1/12] + [1/9] + [1/7] + [1/6] +
+
+total = 0.785459
+
+
+aperte ENTER para continuar 

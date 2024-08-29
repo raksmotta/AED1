@@ -1,0 +1,554 @@
+PUC MINAS - AEDs1
+Mar/2024
+
+Autor: Raquel de Parde Motta
+Matricula: 854017
+
+>>>>>> outputs dos exercícios do ED03 <<<<<<
+
+
+
+
+
+---------------------- > programa 0311 > teste A 
+method_01 - programa 0311
+
+escreva uma palavra: raquel
+
+
+aperte ENTER para continuar
+
+---------------------- > programa 0311 > teste B
+method_01 - programa 0311
+
+escreva uma palavra: RAquel
+
+
+R eh uma letra maiuscula
+
+A eh uma letra maiuscula
+
+aperte ENTER para continuar
+
+---------------------- > programa 0311 > teste C
+method_01 - programa 0311
+
+escreva uma palavra: r4qu#L
+
+
+L eh uma letra maiuscula
+
+aperte ENTER para continuar
+
+
+
+
+
+---------------------- > programa 0312 > teste A 
+method_02 - programa 0312
+
+escreva uma palavra: raquel
+
+
+total de letras maiusculas = 0
+
+aperte ENTER para continuar
+
+---------------------- > programa 0312 > teste B
+method_02 - programa 0312
+
+escreva uma palavra: RAquel
+
+
+posicao 0 - [R]
+
+posicao 1 - [A]
+
+total de letras maiusculas = 2
+
+aperte ENTER para continuar
+
+---------------------- > programa 0312 > teste C
+method_02 - programa 0312
+
+escreva uma palavra: r4qu#L
+
+
+posicao 5 - [L]
+
+total de letras maiusculas = 1
+
+aperte ENTER para continuar
+
+
+
+
+
+---------------------- > programa 0313 > teste A 
+method_03 - programa 0313
+
+escreva uma palavra: raquel
+
+
+total de letras maiusculas = 0
+
+aperte ENTER para continuar
+
+---------------------- > programa 0313 > teste B
+method_03 - programa 0313
+
+escreva uma palavra: RAquel
+
+
+posicao 1 - [A]
+
+posicao 0 - [R]
+
+total de letras maiusculas = 2
+
+aperte ENTER para continuar
+
+---------------------- > programa 0313 > teste C
+method_03 - programa 0313
+
+escreva uma palavra: R4qu#L
+
+
+posicao 5 - [L]
+
+posicao 0 - [R]
+
+total de letras maiusculas = 2
+
+aperte ENTER para continuar
+
+
+
+
+
+---------------------- > programa 0314 > teste A 
+
+method_04 - programa 0314
+
+escreva uma palavra: raquel
+
+
+posicao 0 - [r]
+
+posicao 1 - [a]
+
+posicao 2 - [q]
+
+posicao 3 - [u]
+
+posicao 4 - [e]
+
+posicao 5 - [l]
+
+total de letras = 6
+
+aperte ENTER para continuar
+
+---------------------- > programa 0314 > teste B
+method_04 - programa 0314
+
+escreva uma palavra: RAquel
+
+
+posicao 0 - [R]
+
+posicao 1 - [A]
+
+posicao 2 - [q]
+
+posicao 3 - [u]
+
+posicao 4 - [e]
+
+posicao 5 - [l]
+
+total de letras = 6
+
+aperte ENTER para continuar
+
+---------------------- > programa 0314 > teste C
+method_04 - programa 0314
+
+escreva uma palavra: R4qu#L
+
+
+posicao 0 - [R]
+
+posicao 2 - [q]
+
+posicao 3 - [u]
+
+posicao 5 - [L]
+
+total de letras = 4
+
+aperte ENTER para continuar
+
+
+
+
+
+---------------------- > programa 0315 > teste A
+method_05 - programa 0315
+
+escreva uma palavra: RAqu$l
+
+
+total de digitos = 0
+
+aperte ENTER para continuar
+
+---------------------- > programa 0315 > teste B
+method_05 - programa 0315
+
+escreva uma palavra: raq32l!
+
+
+posicao 4 - [2]
+
+posicao 3 - [3]
+
+total de digitos = 2
+
+aperte ENTER para continuar
+
+
+
+
+
+---------------------- > programa 0316 > teste A
+method_06 - programa 0316
+
+escreva uma palavra: RAqu$l
+
+
+posicao 4 - [$]
+
+total de caracteres (nem digito, nem letra) = 1
+
+aperte ENTER para continuar
+
+---------------------- > programa 0316 > teste B
+method_06 - programa 0316
+
+escreva uma palavra: @#raQ32l!
+
+
+posicao 0 - [@]
+
+posicao 1 - [#]
+
+posicao 8 - [!]
+
+total de caracteres (nem digito, nem letra) = 3
+
+aperte ENTER para continuar
+
+
+
+
+
+---------------------- > programa 0317 > teste A
+method_07 - programa 0317
+
+insira o limite inferior do intervalo: 3
+
+insira o limite superior do intervalo: 1
+
+
+insira o limite inferior do intervalo: 3
+
+insira o limite superior do intervalo: 20
+
+
+intervalo escolhido = [3:20]
+
+insira a quantidade de valores que vc quer testar: 7
+
+valor 1: -9
+
+valor 2: -6
+
+valor 3: 0
+
+valor 4: 1
+
+valor 5: 6
+
+valor 6: 12
+
+valor 7: 60
+
+
+2 valores dentro do intervalo E multiplos de 6: [6] [12]
+
+aperte ENTER para continuar
+
+---------------------- > programa 0317 > teste B
+method_07 - programa 0317
+
+insira o limite inferior do intervalo: 2
+
+insira o limite superior do intervalo: 10
+
+
+intervalo escolhido = [2:10]
+
+insira a quantidade de valores que vc quer testar: 0
+
+
+insira a quantidade de valores que vc quer testar: -9
+
+
+insira a quantidade de valores que vc quer testar: 5
+
+valor 1: 1
+
+valor 2: 11
+
+valor 3: 12
+
+valor 4: 13
+
+valor 5: 14
+
+
+nenhum valor multiplo de 6 E dentro do intervalo
+
+aperte ENTER para continuar
+
+
+
+
+
+---------------------- > programa 0318 > teste A
+method_08 - programa 0318
+
+insira o limite inferior do intervalo: 4
+
+insira o limite superior do intervalo: 3
+
+
+insira o limite inferior do intervalo: 1
+
+insira o limite superior do intervalo: 40
+
+
+intervalo escolhido = [1:40]
+
+insira a quantidade de valores que vc quer testar: 7
+
+valor 1: -4
+
+valor 2: 4
+
+valor 3: 5
+
+valor 4: 12
+
+valor 5: 20
+
+valor 6: 40
+
+valor 7: 62
+
+
+2 valores dentro do intervalo E multiplos de 4 E nao multiplos de 5: [4] [12]
+
+aperte ENTER para continuar
+
+---------------------- > programa 0318 > teste B
+method_08 - programa 0318
+
+insira o limite inferior do intervalo: 200
+
+insira o limite superior do intervalo: 400
+
+
+intervalo escolhido = [200:400]
+
+insira a quantidade de valores que vc quer testar: 0
+
+
+insira a quantidade de valores que vc quer testar: -2
+
+
+insira a quantidade de valores que vc quer testar: 3
+
+valor 1: 200
+
+valor 2: 400
+
+valor 3: 20
+
+
+nenhum valor dentro do intervalo E multiplo de 4 E nao multiplo de 5
+
+aperte ENTER para continuar
+
+
+
+
+
+---------------------- > programa 0319 > teste A
+method_09 - programa 0319
+
+insira o limite inferior do intervalo: -5
+
+insira o limite superior do intervalo: -2
+
+
+intervalo escolhido = (-5.000000:-2.000000)
+
+insira a quantidade de valores que vc quer testar: 5
+
+valor 1: 1.9
+
+valor 2: -3.7
+
+valor 3: -2.1
+
+valor 4: -4
+
+valor 5: 10
+
+
+2 valores dentro do intervalo E com parte inteira par: [-2.100000] [-4.000000]
+
+aperte ENTER para continuar
+
+---------------------- > programa 0319 > teste B
+method_09 - programa 0319
+
+insira o limite inferior do intervalo: 3
+
+insira o limite superior do intervalo: 2
+
+
+insira o limite inferior do intervalo: 0
+
+insira o limite superior do intervalo: 70
+
+
+intervalo escolhido = (0.000000:70.000000)
+
+insira a quantidade de valores que vc quer testar: 5
+
+valor 1: 1.9
+
+valor 2: 2.3
+
+valor 3: 15.890
+
+valor 4: 2.3
+
+valor 5: 40.34
+
+
+3 valores dentro do intervalo E com parte inteira par: [2.300000] [2.300000] [40.340000]
+
+aperte ENTER para continuar
+
+---------------------- > programa 0319 > teste C
+method_09 - programa 0319
+
+insira o limite inferior do intervalo: 3
+
+insira o limite superior do intervalo: 10
+
+
+intervalo escolhido = (3.000000:10.000000)
+
+insira a quantidade de valores que vc quer testar: 4
+
+valor 1: -4.3
+
+valor 2: 5.3
+
+valor 3: 12
+
+valor 4: 9.453
+
+
+nenhum valor dentro do intervalo E com parte inteira par
+
+aperte ENTER para continuar
+
+
+
+
+
+---------------------- > programa 0320 > teste A
+method_10 - programa 0320
+
+insira o limite inferior do intervalo: 7
+
+insira o limite superior do intervalo: 2
+
+
+insira o limite inferior do intervalo: 0.3
+
+insira o limite superior do intervalo: 5
+
+
+insira o limite inferior do intervalo: 0.2
+
+insira o limite superior do intervalo: 0.98
+
+
+intervalo escolhido = (0.200000:0.980000)
+
+insira a quantidade de valores que vc quer testar: 7
+
+valor 1: 0.43
+
+valor 2: 23.6
+
+valor 3: 4.88
+
+valor 4: -3.8
+
+valor 5: 0.47
+
+valor 6: 12
+
+valor 7: -67
+
+
+3 valores com parte fracionaria fora do intervalo: [-0.800000] [0.000000] [0.000000]
+
+aperte ENTER para continuar
+
+---------------------- > programa 0320 > teste B
+method_10 - programa 0320
+
+insira o limite inferior do intervalo: 0.1
+
+insira o limite superior do intervalo: 0.5
+
+
+intervalo escolhido = (0.100000:0.500000)
+
+insira a quantidade de valores que vc quer testar: -1
+
+
+insira a quantidade de valores que vc quer testar: 0
+
+
+insira a quantidade de valores que vc quer testar: 3
+
+valor 1: 0.2
+
+valor 2: 24.4
+
+valor 3: 5.12
+
+
+nenhum valor com parte fracionaria fora do intervalo
+
+aperte ENTER para continuar
